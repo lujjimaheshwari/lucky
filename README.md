@@ -1,0 +1,2 @@
+# lucky
+learning git
